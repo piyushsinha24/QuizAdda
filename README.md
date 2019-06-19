@@ -3,9 +3,9 @@
 Test your layknowledge in many different categories and sharpen your skills with QuizAdda.
 Free to use, user-contributed trivia question database.
 Flutter | Opentdb API
-
-![](quizadda1.png =100x20)![](quizadda2.png =100x20)
-![](quizadda3.png =100x20)![](quizadda4.png =100x20)
-![](quizadda5.png =100x20)
-<img src="quizadda5.png" width="200">
+<img src="quizadda1.png" width="100">
+<img src="quizadda2.png" width="100">
+<img src="quizadda3.png" width="100">
+<img src="quizadda4.png" width="100">
+<img src="quizadda5.png" width="100">
 
