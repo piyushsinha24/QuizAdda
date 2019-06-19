@@ -1,8 +1,5 @@
 # QuizAdda
 # [Get It on Google Play](https://play.google.com/store/apps/details?id=devPS.quizadda)
-Test your layknowledge in many different categories and sharpen your skills with QuizAdda.
-Free to use, user-contributed trivia question database.
-Flutter | Opentdb API
 <img src="quizadda1.png" width="100">
 <img src="quizadda2.png" width="100">
 <img src="quizadda3.png" width="100">
